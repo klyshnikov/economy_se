@@ -1,0 +1,142 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.14">
+  <diagram name="Страница — 1" id="viOj5BvKXx6_m1dyH2Ou">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="96_LZpnvP_PCUOEkzXLE-1" value="&lt;span lang=&quot;en&quot; class=&quot;HwtZe&quot;&gt;&lt;span class=&quot;jCAhz ChMk0b&quot;&gt;&lt;span class=&quot;ryNqvb&quot;&gt;НардыOnline&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="100" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="96_LZpnvP_PCUOEkzXLE-3" value="1.Сбор требований от заказчика" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="96_LZpnvP_PCUOEkzXLE-4" value="2.Анализ требований" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="96_LZpnvP_PCUOEkzXLE-5" value="4. Распределение задач" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="96_LZpnvP_PCUOEkzXLE-6" value="5. Разработка и тестирование" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="96_LZpnvP_PCUOEkzXLE-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.467;exitY=0.998;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="96_LZpnvP_PCUOEkzXLE-1" target="96_LZpnvP_PCUOEkzXLE-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="270" as="sourcePoint" />
+            <mxPoint x="380" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="96_LZpnvP_PCUOEkzXLE-8" value="6. Внедрение и поддержка" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="96_LZpnvP_PCUOEkzXLE-9" value="3. Проектирование" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="96_LZpnvP_PCUOEkzXLE-10" value="Общение с заказчиком" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="96_LZpnvP_PCUOEkzXLE-11" value="Определение целевой аудитории" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="96_LZpnvP_PCUOEkzXLE-12" value="Определение особенностей продукта" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="96_LZpnvP_PCUOEkzXLE-13" value="Определение функциональных характеристик продукта" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="96_LZpnvP_PCUOEkzXLE-14" value="Обсуждение финансирования продукта" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="96_LZpnvP_PCUOEkzXLE-15" value="Анализ трудозатрат команды" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="96_LZpnvP_PCUOEkzXLE-16" value="Распределение ролей в команде" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="96_LZpnvP_PCUOEkzXLE-17" value="Оценка кол-ва людей, вовлеченных в процесс" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="96_LZpnvP_PCUOEkzXLE-18" value="Анализ временных затрат" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="96_LZpnvP_PCUOEkzXLE-19" value="Анализ системных требований" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="96_LZpnvP_PCUOEkzXLE-20" value="Требования к UX/UI составляющих" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="96_LZpnvP_PCUOEkzXLE-21" value="Требования к масштабируемости" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="96_LZpnvP_PCUOEkzXLE-22" value="Требования к производительности" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="96_LZpnvP_PCUOEkzXLE-23" value="Требования к поддержке приложения" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="96_LZpnvP_PCUOEkzXLE-24" value="Проектирование и создание стендов" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="247" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="96_LZpnvP_PCUOEkzXLE-25" value="Проектирование репозитория " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="96_LZpnvP_PCUOEkzXLE-26" value="&lt;div&gt;Стандартизация регламента работы команды с репозиторием&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="96_LZpnvP_PCUOEkzXLE-27" value="Оценка возможностей реализации ИИ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="680" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="96_LZpnvP_PCUOEkzXLE-28" value="Проектирование архитектуры бд" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="253" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="96_LZpnvP_PCUOEkzXLE-29" value="Проектирование структуры проекта" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="695" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="96_LZpnvP_PCUOEkzXLE-30" value="Настройка сервера" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="96_LZpnvP_PCUOEkzXLE-31" value="Настройка автоматической публикации и инсталяции проекта" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="247" y="600" width="126" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="96_LZpnvP_PCUOEkzXLE-32" value="Проектирование логики игры" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="253" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="96_LZpnvP_PCUOEkzXLE-33" value="Создание глобальных задач" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="96_LZpnvP_PCUOEkzXLE-34" value="Распределение глобальных задач на маленькие подзадачи" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="96_LZpnvP_PCUOEkzXLE-36" value="Оценка сроков для каждой задачи" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="96_LZpnvP_PCUOEkzXLE-41" value="Разработка ядра взаимодействия с бд" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="96_LZpnvP_PCUOEkzXLE-42" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="96_LZpnvP_PCUOEkzXLE-43" value="Реализация логики игры на стороне сервера" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="96_LZpnvP_PCUOEkzXLE-44" value="Реализация api" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="526.5" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="96_LZpnvP_PCUOEkzXLE-45" value="Реализация интерфейса на стороне клиента" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="96_LZpnvP_PCUOEkzXLE-46" value="Внедрение ИИ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="533.5" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="96_LZpnvP_PCUOEkzXLE-47" value="Реализация WebSocket взаимодействия клиентов" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="526.5" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="96_LZpnvP_PCUOEkzXLE-48" value="Реализация взаимодействия клиентов на стороне сервера" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="560" width="113" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="96_LZpnvP_PCUOEkzXLE-49" value="Реализация API логики игры " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="533.5" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
